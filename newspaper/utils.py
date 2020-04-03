@@ -355,6 +355,7 @@ def print_available_languages():
     """Prints available languages with their full names
     """
     language_dict = {
+        'bn': 'Bengali',
         'ar': 'Arabic',
         'be': 'Belarusian',
         'bg': 'Bulgarian',
